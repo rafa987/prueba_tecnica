@@ -1,0 +1,21 @@
+body{
+    background-image:url(https://images.pexels.com/photos/33201/aurora-borealis-lofoten-norway-night.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
+    background-size:100% 100%;
+    background-attachment: fixed; 
+}
+
+.img{
+    background-color: #fff; 
+    padding: 5px;
+    margin: 100px auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;  
+    
+}
+
+h1,h2{
+    font-family: 'Mali', cursive;
+    color: #fff;
+}
